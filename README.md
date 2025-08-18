@@ -3,6 +3,8 @@ Estimate true distribution from noisy measurements Use reporterror With STATA 19
 
 Executes estimation of the probability masses of an unobserved discrete random variable using two measurements with possibly nonclassical and nonseparable measurement errors Use reporterror With STATA 19
 
+https://www.youtube.com/watch?v=W-gJGOQZ3Y4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
